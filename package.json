@@ -1,0 +1,17 @@
+{
+  "name": "auth0-test-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.12.1",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.5"
+  },
+  "devDependencies": {}
+}
